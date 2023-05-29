@@ -1,1 +1,9 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
 
+body {
+  background: #9e9e9e;
+}
